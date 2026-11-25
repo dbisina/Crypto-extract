@@ -1,4 +1,4 @@
-# KryptoExtract
+# Crypto-extract# KryptoExtract
 
 Premium African cryptocurrency & financial news publication. Laravel 13 · Blade · SQLite · Tailwind CSS 4 · Alpine.js · Vite.
 
